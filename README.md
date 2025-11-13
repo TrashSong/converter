@@ -29,4 +29,3 @@ Git — це розподілена система контролю версій
 Code review та collaboration workflows
 CI/CD integration
 Open source contribution
-Portfolio management через GitHub
